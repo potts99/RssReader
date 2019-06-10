@@ -38,16 +38,16 @@
                                 "url" => "http://feeds.bbci.co.uk/news/world/rss.xml"
                             ),
                             array(
-                                "title" => "BBC Sport",
-                                "url" => "http://rss.cnn.com/rss/cnn_latest.rss"
+                                "title" => "BBC Cricket",
+                                "url" => "http://newsrss.bbc.co.uk/rss/sportonline_uk_edition/cricket/rss.xml"
                             ),
                             array(
                                 "title" => "SideBar.io",
                                 "url" => "https://sidebar.io/feed.xml"
                             ),
                             array(
-                                "title" => "Hacker News",
-                                "url" => "https://news.ycombinator.com/rss"
+                                "title" => "R/Web Dev",
+                                "url" => "https://www.reddit.com/r/webdev/.rss"
                             )
                         );
                         function getFeed($url){
