@@ -45,10 +45,6 @@
                                 "title" => "SideBar.io",
                                 "url" => "https://sidebar.io/feed.xml"
                             ),
-                            array(
-                                "title" => "R/Web Dev",
-                                "url" => "https://www.reddit.com/r/webdev/.rss"
-                            )
                         );
                         function getFeed($url){
                             $html = "";
